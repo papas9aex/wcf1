@@ -1,0 +1,7 @@
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\bin\Debug\Kt10WcfServiceLibrary2.dll.config
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\bin\Debug\Kt10WcfServiceLibrary2.dll
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\bin\Debug\Kt10WcfServiceLibrary2.pdb
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\obj\Debug\Kt10WcfServiceLibrary2.csproj.AssemblyReference.cache
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\obj\Debug\Kt10WcfServiceLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\obj\Debug\Kt10WcfServiceLibrary2.dll
+C:\Users\Little_Tardi\Source\Repos\Kt10WcfServiceLibrary\Kt10WcfServiceLibrary2\obj\Debug\Kt10WcfServiceLibrary2.pdb
